@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Gerard Berge",
+      "id": 2
+    },
+    {
+      "name": "Pedro Ziemann",
+      "id": 3
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
